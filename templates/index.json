@@ -678,7 +678,28 @@
         "item_TzVmGR": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
+            "title": "I leggings sono opachi?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        },
+        "item_wUgBGK": {
+          "type": "item",
+          "settings": {
+            "title": "Come i leggings Leonie aiutano a snellire la silhouette?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        },
+        "item_Kt9T9D": {
+          "type": "item",
+          "settings": {
+            "title": "Posso restituire il prodotto se non sono soddisfatta?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        },
+        "item_NfdLdG": {
+          "type": "item",
+          "settings": {
+            "title": "Quali sono i tempi di consegna?",
             "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
           }
         }
@@ -686,7 +707,10 @@
       "block_order": [
         "item_xx3RrJ",
         "item_ith9hz",
-        "item_TzVmGR"
+        "item_TzVmGR",
+        "item_wUgBGK",
+        "item_Kt9T9D",
+        "item_NfdLdG"
       ],
       "name": "FAQ",
       "settings": {
