@@ -200,7 +200,7 @@
       "name": "Image link blocks",
       "settings": {
         "full_width": false,
-        "block_size": "medium",
+        "block_size": "small",
         "subheading": "",
         "title": "",
         "content": "",
@@ -585,7 +585,7 @@
       "name": "Image link blocks",
       "settings": {
         "full_width": false,
-        "block_size": "medium",
+        "block_size": "small",
         "subheading": "",
         "title": "",
         "content": "",
