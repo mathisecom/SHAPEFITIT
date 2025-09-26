@@ -320,7 +320,7 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "title": "",
+        "title": "Perché sceglierci?",
         "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "medium",
@@ -396,13 +396,13 @@
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "subheading": "",
         "title": "",
-        "content": "",
+        "content": "<h3>Hanno provato SHAPEFIT, e tu?</h3>",
         "background": "",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#772647"
       }
     },
     "media_with_text_DLQAmg": {
