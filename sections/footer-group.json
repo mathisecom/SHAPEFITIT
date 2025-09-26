@@ -110,7 +110,7 @@
           "type": "text",
           "settings": {
             "title": "Contattaci",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "content": "<p><strong>E-mail: </strong><a><strong>hello@shapefit-it.com</strong></a></p><p><strong>Orari di apertura:</strong> dal lunedì al venerdì dalle 9:00 alle 12:00 e dalle 14:00 alle 18:00 / sabato e domenica dalle 10:00 alle 12:00</p>",
             "enable_follow_on_shop": true
           }
         }
