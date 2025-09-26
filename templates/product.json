@@ -329,7 +329,8 @@
         "quote_JTBEwb": {
           "type": "quote",
           "settings": {
-            "logo_width": 100,
+            "logo": "shopify://shop_images/Copie_de_Sans_titre_6.webp",
+            "logo_width": 50,
             "author": "July B.",
             "content": "\"All’inizio non ci credevo molto… ma i leggings davvero rassodano le mie gambe e levigano la pelle. Li consiglio caldamente!\"",
             "show_rating": true,
@@ -339,7 +340,8 @@
         "quote_HgAjHp": {
           "type": "quote",
           "settings": {
-            "logo_width": 100,
+            "logo": "shopify://shop_images/Copie_de_Sans_titre_8.webp",
+            "logo_width": 50,
             "author": "Mary U.",
             "content": "\"Il materiale è morbido ed elastico, ideale per l’allenamento. Già noto la differenza su cosce e glutei.\"",
             "show_rating": true,
@@ -349,7 +351,8 @@
         "quote_4TWkcc": {
           "type": "quote",
           "settings": {
-            "logo_width": 100,
+            "logo": "shopify://shop_images/Copie_de_Sans_titre_7.webp",
+            "logo_width": 50,
             "author": "Sonia J.",
             "content": "\"La parte a compressione è piacevole e mirata. La pelle appare più tonica e il corpo meglio modellato già dopo pochi giorni.\"",
             "show_rating": true,
