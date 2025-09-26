@@ -607,9 +607,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "July B.",
+            "title": "Risultato già dalla prima settimana",
+            "content": "<p>All’inizio non ci credevo molto… ma i leggings rassodano davvero le mie gambe e levigano la pelle. <strong>Li consiglio vivamente!</strong></p>"
           }
         },
         "testimonial_8Wbkhc": {
@@ -619,8 +619,8 @@
             "show_rating": true,
             "rating": 5,
             "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "title": "Super comodi ed efficaci",
+            "content": "<p>Il materiale è morbido ed elastico, ideale per l’allenamento. <strong>Già noto la differenza su cosce e glutei.</strong></p>"
           }
         },
         "testimonial_tra7Mz": {
@@ -629,16 +629,40 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Oriane A.",
+            "title": "Ottimo supporto per la mia pelle",
+            "content": "<p>La parte a compressione è piacevole e mirata. La pelle appare più tonica e il corpo meglio modellato già dopo pochi giorni.</p>"
+          }
+        },
+        "testimonial_zT4xwb": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Léa K.",
+            "title": "Li adoro!",
+            "content": "<p>Li indosso tutti i giorni, sia a casa che durante lo sport. I leggings mantengono la forma e sento che funzionano davvero. <strong>La cellulite è meno visibile.</strong></p>"
+          }
+        },
+        "testimonial_yC4aK4": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Louise J.",
+            "title": "Parte essenziale della mia routine",
+            "content": "<p>Sento che agiscono davvero su gambe e glutei. La pelle è più liscia e tonica. <strong>Massima soddisfazione!</strong></p>"
           }
         }
       },
       "block_order": [
         "testimonial_ccxJJQ",
         "testimonial_8Wbkhc",
-        "testimonial_tra7Mz"
+        "testimonial_tra7Mz",
+        "testimonial_zT4xwb",
+        "testimonial_yC4aK4"
       ],
       "name": "Testimonials",
       "settings": {
