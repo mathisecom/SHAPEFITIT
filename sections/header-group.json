@@ -27,11 +27,19 @@
             "text": "OLTRE 3.000 DONNE SODDISFATTE",
             "url": ""
           }
+        },
+        "message_BjJaXp": {
+          "type": "message",
+          "settings": {
+            "text": "SPEDIZIONE GRATUITA",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
-        "message_hQcmpg"
+        "message_hQcmpg",
+        "message_BjJaXp"
       ],
       "settings": {
         "enable_sticky": false,
