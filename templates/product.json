@@ -124,8 +124,18 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Informazioni sulla consegna",
+            "content": "<p>Elaborazione in 24 ore, consegna entro 6–8 giorni. Tracciamento incluso.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_rz3GpH": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "14 giorni per il reso",
+            "content": "<p>Per gli ordini hai 14 giorni (dalla data di consegna) per cambiare idea.</p>",
             "page": ""
           }
         }
@@ -146,7 +156,8 @@
         "liquid_j8xJYF",
         "collapsible_text_gRxgJC",
         "collapsible_text_Ug6RyV",
-        "collapsible_text_wjJkVn"
+        "collapsible_text_wjJkVn",
+        "collapsible_text_rz3GpH"
       ],
       "settings": {
         "full_width": true,
