@@ -326,16 +326,6 @@
     "press_cqRFpk": {
       "type": "press",
       "blocks": {
-        "quote_eFCjLJ": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Write some content about what they says about your store.",
-            "show_rating": true,
-            "rating": 4
-          }
-        },
         "quote_JTBEwb": {
           "type": "quote",
           "settings": {
@@ -368,7 +358,6 @@
         }
       },
       "block_order": [
-        "quote_eFCjLJ",
         "quote_JTBEwb",
         "quote_HgAjHp",
         "quote_4TWkcc"
