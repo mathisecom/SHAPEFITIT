@@ -399,7 +399,7 @@
           "settings": {
             "image": "shopify://shop_images/IT_copie.jpg",
             "media_width": 50,
-            "media_position": "start",
+            "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "custom_icon": "shopify://shop_images/Sous-titre_2.png",
@@ -499,7 +499,7 @@
         "full_width": true,
         "stack_on_mobile": false,
         "title": "Perché sceglierci?",
-        "heading_tag": "h5",
+        "heading_tag": "h6",
         "text_alignment": "center",
         "icon_spacing": "medium",
         "background": "",
@@ -644,7 +644,7 @@
           "settings": {
             "image": "shopify://shop_images/IT_copie_4.jpg",
             "media_width": 50,
-            "media_position": "start",
+            "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
