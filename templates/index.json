@@ -212,11 +212,48 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "media_with_text_imT8AN": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_Ccmrkh": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "custom_icon": "shopify://shop_images/Sous-titre_2.png",
+            "icon_width": 96,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#f9f3ee",
+            "background_gradient": "",
+            "text_color": "#772647",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_Ccmrkh"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
     }
   },
   "order": [
     "slideshow",
     "slideshow_cd7XeK",
-    "image_link_blocks_4pCejz"
+    "image_link_blocks_4pCejz",
+    "media_with_text_imT8AN"
   ]
 }
