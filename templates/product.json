@@ -849,8 +849,8 @@
             "show_rating": true,
             "rating": 5,
             "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Il materiale è morbido ed elastico, ideale per l’allenamento. Già noto la differenza su cosce e glutei.</p>"
+            "title": "Super comodi ed efficaci",
+            "content": "<p>Il materiale è morbido ed elastico, ideale per l’allenamento. Già noto la differenza su cosce e glutei.<br/></p>"
           }
         },
         "testimonial_tn6cVY": {
@@ -859,16 +859,40 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Oriane A.",
+            "title": "Ottimo supporto per la mia pelle",
+            "content": "<p>La parte a compressione è piacevole e mirata. La pelle appare più tonica e il corpo meglio modellato già dopo pochi giorni.<br/></p>"
+          }
+        },
+        "testimonial_QjWiEr": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Léa K.",
+            "title": "Li adoro!",
+            "content": "<p>Li indosso tutti i giorni, sia a casa che durante lo sport. I leggings mantengono la forma e sento che funzionano davvero. La cellulite è meno visibile.</p>"
+          }
+        },
+        "testimonial_krNn4q": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Louise J.",
+            "title": "Parte essenziale della mia routine",
+            "content": "<p>Sento che agiscono davvero su gambe e glutei. La pelle è più liscia e tonica. Massima soddisfazione!</p>"
           }
         }
       },
       "block_order": [
         "testimonial_GnBNGG",
         "testimonial_TCzG6T",
-        "testimonial_tn6cVY"
+        "testimonial_tn6cVY",
+        "testimonial_QjWiEr",
+        "testimonial_krNn4q"
       ],
       "name": "Testimonials",
       "settings": {
