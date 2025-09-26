@@ -30,14 +30,16 @@
             "heading_tag": "h2"
           }
         },
-        "badges": {
-          "type": "badges",
-          "settings": {}
-        },
         "liquid_xBxaa7": {
           "type": "liquid",
           "settings": {
             "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <div id=\"productBullets\" style=\"display: flex; flex-wrap: wrap; gap: 10px;\">\n      \n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; gap: 8px; background-color: #f7f7f7; border-radius: 6px; padding: 5px 10px;\">\n        <img class=\"productBulletsItemCheck\" src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\" alt=\"checkmark\" style=\"filter: none;\">\n        <div class=\"productBulletsItemText body\">Cellulite ridotta in 14 giorni</div>\n      </div>\n      \n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; gap: 8px; background-color: #f7f7f7; border-radius: 6px; padding: 5px 10px;\">\n        <img class=\"productBulletsItemCheck\" src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\" alt=\"checkmark\" style=\"filter: none;\">\n        <div class=\"productBulletsItemText body\">Gambe più toniche e scolpite</div>\n      </div>\n      \n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; gap: 8px; background-color: #f7f7f7; border-radius: 6px; padding: 5px 10px;\">\n        <img class=\"productBulletsItemCheck\" src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\" alt=\"checkmark\" style=\"filter: none;\">\n        <div class=\"productBulletsItemText body\">Corpo subito più snello</div>\n      </div>\n      \n    </div>\n  </div>\n</div>"
+          }
+        },
+        "kaching_bundles_app_block_RFfAX7": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{product}}"
           }
         },
         "price": {
@@ -146,8 +148,8 @@
         "liquid_gTcPCj",
         "liquid_WAYhkE",
         "title",
-        "badges",
         "liquid_xBxaa7",
+        "kaching_bundles_app_block_RFfAX7",
         "price",
         "description",
         "liquid_W6TaV8",
