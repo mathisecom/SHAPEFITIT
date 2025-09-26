@@ -219,6 +219,7 @@
         "image_Ccmrkh": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/IT_copie.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -248,12 +249,480 @@
         "alternate_media_position": false,
         "spacing": "none"
       }
+    },
+    "text_with_icons_XmHCnC": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_iMFDQm": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/Design_sans_titre_7_4.png",
+            "mobile_icon_width": 48,
+            "icon_width": 48,
+            "icon_background_type": "circle",
+            "icon_background": "#f9f3ee",
+            "icon_color": "",
+            "title": "Free shipping",
+            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+          }
+        },
+        "item_gHPQGE": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/Design_sans_titre_7_1.png",
+            "mobile_icon_width": 48,
+            "icon_width": 48,
+            "icon_background_type": "circle",
+            "icon_background": "#f9f3ee",
+            "icon_color": "",
+            "title": "Free shipping",
+            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+          }
+        },
+        "item_gCDcbR": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/Sous-titre_4.png",
+            "mobile_icon_width": 48,
+            "icon_width": 48,
+            "icon_background_type": "circle",
+            "icon_background": "#f9f3ee",
+            "icon_color": "",
+            "title": "Free shipping",
+            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+          }
+        },
+        "item_VzAJyx": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/Sous-titre_1.png",
+            "mobile_icon_width": 48,
+            "icon_width": 48,
+            "icon_background_type": "circle",
+            "icon_background": "#f9f3ee",
+            "icon_color": "",
+            "title": "Free shipping",
+            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_iMFDQm",
+        "item_gHPQGE",
+        "item_gCDcbR",
+        "item_VzAJyx"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_8K7U8t": {
+      "type": "multi-column",
+      "blocks": {
+        "item_Wd6bnt": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gempages_559621678087275640-f9fd501b-56bd-4a30-82c4-61110432b2e6.webp",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_QxTJAb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gempages_559621678087275640-d05ffdbc-f6d4-4c57-8e68-449d5be6da50.webp",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_HdDgUw": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gempages_559621678087275640-26b750f8-ff56-4cd0-b121-163d098a4806.webp",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_H6TCCg": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gempages_559621678087275640-51f1291a-88d3-403c-850e-0e19155cc04a.webp",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_Wd6bnt",
+        "item_QxTJAb",
+        "item_HdDgUw",
+        "item_H6TCCg"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_with_text_DLQAmg": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_TcW99U": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IT_copie_3.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "custom_icon": "shopify://shop_images/Sous-titre_3.avif",
+            "icon_width": 76,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#772647",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_TcW99U"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
+    "impact_text_ajHWaY": {
+      "type": "impact-text",
+      "blocks": {
+        "item_N9aqww": {
+          "type": "item",
+          "settings": {
+            "title": "4,8/5",
+            "subheading": "",
+            "content": "<p>Více než 3,000 spokojených žen</p>",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_N9aqww"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 0.8,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "#772647",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "image_link_blocks_KEhNNx": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_JCDwtH": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-25T140657.225.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_FhLWFn": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-25T140705.279.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_qtRyGc": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-25T140721.333.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_jWTdii": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-25T140709.681.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_d483Q3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-25T143517.338.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_EPrXQd": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-25T141130.224.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_taMHQn": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-25T140715.935.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_JCDwtH",
+        "item_FhLWFn",
+        "item_qtRyGc",
+        "item_jWTdii",
+        "item_d483Q3",
+        "item_EPrXQd",
+        "item_taMHQn"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "testimonials_RPrzcE": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_ccxJJQ": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_8Wbkhc": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_tra7Mz": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_ccxJJQ",
+        "testimonial_8Wbkhc",
+        "testimonial_tra7Mz"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "#f9f3ee",
+        "testimonial_card_text_color": "#772647"
+      }
+    },
+    "faq_WaWP34": {
+      "type": "faq",
+      "blocks": {
+        "item_xx3RrJ": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "item_ith9hz": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_TzVmGR": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_xx3RrJ",
+        "item_ith9hz",
+        "item_TzVmGR"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "#f9f3ee",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
     "slideshow",
     "slideshow_cd7XeK",
     "image_link_blocks_4pCejz",
-    "media_with_text_imT8AN"
+    "media_with_text_imT8AN",
+    "text_with_icons_XmHCnC",
+    "multi_column_8K7U8t",
+    "media_with_text_DLQAmg",
+    "impact_text_ajHWaY",
+    "image_link_blocks_KEhNNx",
+    "testimonials_RPrzcE",
+    "faq_WaWP34"
   ]
 }
