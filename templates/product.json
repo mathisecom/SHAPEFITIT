@@ -177,6 +177,32 @@
         "input_text_color": ""
       }
     },
+    "rich_text_kbfMkx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_WhF38Q": {
+          "type": "heading",
+          "settings": {
+            "text": "Oltre 3.000 donne soddisfatte",
+            "heading_tag": "h5",
+            "text_color": "#772647",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_WhF38Q"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_link_blocks_kR7Gqg": {
       "type": "image-link-blocks",
       "blocks": {
@@ -918,6 +944,7 @@
   },
   "order": [
     "main",
+    "rich_text_kbfMkx",
     "image_link_blocks_kR7Gqg",
     "press_cqRFpk",
     "scrolling_text_CC7EYP",
