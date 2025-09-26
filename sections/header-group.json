@@ -20,10 +20,18 @@
             "text": "OFFERTA SPECIALE: ACQUISTA 1 + 1 GRATIS SOLO OGGI",
             "url": ""
           }
+        },
+        "message_hQcmpg": {
+          "type": "message",
+          "settings": {
+            "text": "OLTRE 3.000 DONNE SODDISFATTE",
+            "url": ""
+          }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_hQcmpg"
       ],
       "settings": {
         "enable_sticky": false,
