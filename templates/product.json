@@ -63,6 +63,12 @@
             "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <div class=\"product-info__liquid\">\n      <style>\n        .blink {\n          animation: blink-animation 1.5s steps(5, start) infinite;\n          color: red;\n          display: inline-block;\n          vertical-align: middle;\n          font-size: 10px;\n        }\n\n        @keyframes blink-animation {\n          to {\n            visibility: hidden;\n          }\n        }\n\n        .red-div {\n          background-color: #ffcccc;\n          padding: 2px 10px;\n          border-radius: 8px;\n          display: inline-block;\n          text-align: center;\n          margin: 0 auto;\n        }\n\n        .text {\n          display: inline-block;\n          vertical-align: middle;\n          margin-left: 10px;\n          color: #AD0000;\n          font-weight: 500;\n          font-size: 12px;\n          text-align: justify;\n        }\n      </style>\n\n      <div class=\"red-div\">\n        <div class=\"blink\">●</div>\n        <div class=\"text\">Scorte limitate, presto esaurite.</div>\n      </div>\n    </div>\n  </div>\n</div>"
           }
         },
+        "kaching_bundles_app_block_3fQqmG": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "disabled": true,
@@ -153,6 +159,7 @@
         "price",
         "description",
         "liquid_W6TaV8",
+        "kaching_bundles_app_block_3fQqmG",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
