@@ -452,7 +452,7 @@
             "icon_background_type": "circle",
             "icon_background": "#f9f3ee",
             "icon_color": "",
-            "title": "Free shipping",
+            "title": "Appiattisce la pancia",
             "content": ""
           }
         },
@@ -466,7 +466,7 @@
             "icon_background_type": "circle",
             "icon_background": "#f9f3ee",
             "icon_color": "",
-            "title": "Free shipping",
+            "title": "Effetto push-up",
             "content": ""
           }
         },
@@ -480,7 +480,7 @@
             "icon_background_type": "circle",
             "icon_background": "#f9f3ee",
             "icon_color": "",
-            "title": "Free shipping",
+            "title": "Migliora la circolazione sanguigna",
             "content": ""
           }
         },
@@ -494,7 +494,7 @@
             "icon_background_type": "circle",
             "icon_background": "#f9f3ee",
             "icon_color": "",
-            "title": "Free shipping",
+            "title": "Riduce rapidamente la cellulite",
             "content": ""
           }
         }
@@ -848,9 +848,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "July B.",
+            "title": "Risultato già dalla prima settimana",
+            "content": "<p>All’inizio non ci credevo molto… ma i leggings rassodano davvero le mie gambe e levigano la pelle. Li consiglio vivamente!</p>"
           }
         },
         "testimonial_TCzG6T": {
@@ -861,7 +861,7 @@
             "rating": 5,
             "author": "Mary U.",
             "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "content": "<p>Il materiale è morbido ed elastico, ideale per l’allenamento. Già noto la differenza su cosce e glutei.</p>"
           }
         },
         "testimonial_tn6cVY": {
