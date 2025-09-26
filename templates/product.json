@@ -18,6 +18,12 @@
             "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <style>\n      .badges-container {\n        display: flex;\n        gap: 6px; /* Riduzione dello spazio tra i badge */\n        align-items: center;\n      }\n\n      .badge {\n        display: inline-block;\n        padding: 4px 10px; /* Dimensione ridotta del badge */\n        font-size: 12px; /* Testo più piccolo */\n        font-weight: bold;\n        color: white;\n        background: #772647; /* Nuovo colore */\n        border-radius: 15px; /* Bordo più arrotondato */\n        text-transform: uppercase;\n        white-space: nowrap;\n      }\n    </style>\n\n    <div class=\"badges-container\">\n      <div class=\"badge\">Offerta Limitata</div>\n      <div class=\"badge\">Tecnologia 3D Sculpt</div>\n    </div>\n  </div>\n</div>"
           }
         },
+        "liquid_WAYhkE": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <div class=\"main-product__block main-product__block-custom_liquid\">\n      <div class=\"m-product-text\">\n        <div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <div class=\"product-info__liquid\">\n              <a class=\"image-size\" style=\"display: flex; align-items: center; gap: 8px;\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0776/3751/7627/files/avis.png?v=1687213619\" alt=\"Stelle\" width=\"63\" height=\"13\">\n                <span class=\"text-size\">Valutato <b>4.8/5</b> - 3.380 recensioni</span>\n              </a>\n            </div>\n          </div>\n        </div>\n      </div>\n    </div>\n  </div>\n</div>"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -27,6 +33,12 @@
         "badges": {
           "type": "badges",
           "settings": {}
+        },
+        "liquid_xBxaa7": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <div id=\"productBullets\" style=\"display: flex; flex-wrap: wrap; gap: 10px;\">\n      \n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; gap: 8px; background-color: #f7f7f7; border-radius: 6px; padding: 5px 10px;\">\n        <img class=\"productBulletsItemCheck\" src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\" alt=\"checkmark\" style=\"filter: none;\">\n        <div class=\"productBulletsItemText body\">Cellulite ridotta in 14 giorni</div>\n      </div>\n      \n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; gap: 8px; background-color: #f7f7f7; border-radius: 6px; padding: 5px 10px;\">\n        <img class=\"productBulletsItemCheck\" src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\" alt=\"checkmark\" style=\"filter: none;\">\n        <div class=\"productBulletsItemText body\">Gambe più toniche e scolpite</div>\n      </div>\n      \n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; gap: 8px; background-color: #f7f7f7; border-radius: 6px; padding: 5px 10px;\">\n        <img class=\"productBulletsItemCheck\" src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\" alt=\"checkmark\" style=\"filter: none;\">\n        <div class=\"productBulletsItemText body\">Corpo subito più snello</div>\n      </div>\n      \n    </div>\n  </div>\n</div>"
+          }
         },
         "price": {
           "type": "price",
@@ -41,6 +53,12 @@
             "icon": "none",
             "icon_width": 20,
             "collapse_content": false
+          }
+        },
+        "liquid_W6TaV8": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <div class=\"product-info__liquid\">\n      <style>\n        .blink {\n          animation: blink-animation 1.5s steps(5, start) infinite;\n          color: red;\n          display: inline-block;\n          vertical-align: middle;\n          font-size: 10px;\n        }\n\n        @keyframes blink-animation {\n          to {\n            visibility: hidden;\n          }\n        }\n\n        .red-div {\n          background-color: #ffcccc;\n          padding: 2px 10px;\n          border-radius: 8px;\n          display: inline-block;\n          text-align: center;\n          margin: 0 auto;\n        }\n\n        .text {\n          display: inline-block;\n          vertical-align: middle;\n          margin-left: 10px;\n          color: #AD0000;\n          font-weight: 500;\n          font-size: 12px;\n          text-align: justify;\n        }\n      </style>\n\n      <div class=\"red-div\">\n        <div class=\"blink\">●</div>\n        <div class=\"text\">Scorte limitate, presto esaurite.</div>\n      </div>\n    </div>\n  </div>\n</div>"
           }
         },
         "variant_picker": {
@@ -114,10 +132,13 @@
       },
       "block_order": [
         "liquid_gTcPCj",
+        "liquid_WAYhkE",
         "title",
         "badges",
+        "liquid_xBxaa7",
         "price",
         "description",
+        "liquid_W6TaV8",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
