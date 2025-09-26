@@ -94,8 +94,8 @@
             "image": "shopify://shop_images/2_3.png",
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
-            "content": ""
+            "title": "Iscriviti alla nostra newsletter",
+            "content": "<p>Unisciti alla nostra lista e-mail per ricevere <strong>offerte esclusive</strong> e gli <strong>ultimi aggiornamenti</strong>.</p>"
           }
         },
         "links": {
