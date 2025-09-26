@@ -264,7 +264,7 @@
             "icon_background": "#f9f3ee",
             "icon_color": "",
             "title": "Free shipping",
-            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+            "content": ""
           }
         },
         "item_gHPQGE": {
@@ -278,7 +278,7 @@
             "icon_background": "#f9f3ee",
             "icon_color": "",
             "title": "Free shipping",
-            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+            "content": ""
           }
         },
         "item_gCDcbR": {
@@ -292,7 +292,7 @@
             "icon_background": "#f9f3ee",
             "icon_color": "",
             "title": "Free shipping",
-            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+            "content": ""
           }
         },
         "item_VzAJyx": {
@@ -306,7 +306,7 @@
             "icon_background": "#f9f3ee",
             "icon_color": "",
             "title": "Free shipping",
-            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+            "content": ""
           }
         }
       },
@@ -413,7 +413,7 @@
           "settings": {
             "image": "shopify://shop_images/IT_copie_3.jpg",
             "media_width": 50,
-            "media_position": "start",
+            "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "custom_icon": "shopify://shop_images/Sous-titre_3.avif",
