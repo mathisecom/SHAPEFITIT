@@ -12,6 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "liquid_gTcPCj": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <style>\n      .badges-container {\n        display: flex;\n        gap: 6px; /* Riduzione dello spazio tra i badge */\n        align-items: center;\n      }\n\n      .badge {\n        display: inline-block;\n        padding: 4px 10px; /* Dimensione ridotta del badge */\n        font-size: 12px; /* Testo più piccolo */\n        font-weight: bold;\n        color: white;\n        background: #772647; /* Nuovo colore */\n        border-radius: 15px; /* Bordo più arrotondato */\n        text-transform: uppercase;\n        white-space: nowrap;\n      }\n    </style>\n\n    <div class=\"badges-container\">\n      <div class=\"badge\">Offerta Limitata</div>\n      <div class=\"badge\">Tecnologia 3D Sculpt</div>\n    </div>\n  </div>\n</div>"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -24,23 +30,10 @@
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {
             "show_taxes_notice": false
           }
-        },
-        "rating": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "payment_terms": {
-          "type": "payment_terms",
-          "settings": {}
-        },
-        "separator": {
-          "type": "separator",
-          "settings": {}
         },
         "description": {
           "type": "description",
@@ -120,12 +113,10 @@
         }
       },
       "block_order": [
+        "liquid_gTcPCj",
         "title",
         "badges",
         "price",
-        "rating",
-        "payment_terms",
-        "separator",
         "description",
         "variant_picker",
         "quantity_selector",
