@@ -326,6 +326,16 @@
     "press_cqRFpk": {
       "type": "press",
       "blocks": {
+        "quote_eFCjLJ": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
         "quote_JTBEwb": {
           "type": "quote",
           "settings": {
@@ -358,6 +368,7 @@
         }
       },
       "block_order": [
+        "quote_eFCjLJ",
         "quote_JTBEwb",
         "quote_HgAjHp",
         "quote_4TWkcc"
@@ -380,7 +391,7 @@
       "name": "Scrolling text",
       "settings": {
         "full_width": true,
-        "text": "Promotion text",
+        "text": "CELLULITE VISIBILMENTE RIDOTTA",
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
@@ -404,9 +415,9 @@
             "icon": "none",
             "custom_icon": "shopify://shop_images/Sous-titre_2.png",
             "icon_width": 76,
-            "subheading": "",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "subheading": "TECNOLOGIA INNOVATIVA",
+            "title": "Leggings che drenano e modellano la tua silhouette",
+            "content": "<p>I nostri leggings agiscono a ogni movimento grazie alla loro tecnologia drenante 3D, che stimola la circolazione sanguigna. <strong>Il risultato:</strong> riduzione visibile dell’aspetto della cellulite, gambe più toniche e pelle più liscia giorno dopo giorno.</p><p>In combinazione con una compressione delicata e mirata, scolpiscono la figura <strong>senza compromessi sul comfort</strong>.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#f9f3ee",
@@ -442,7 +453,7 @@
             "icon_background": "#f9f3ee",
             "icon_color": "",
             "title": "Free shipping",
-            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+            "content": ""
           }
         },
         "item_E87myt": {
@@ -456,7 +467,7 @@
             "icon_background": "#f9f3ee",
             "icon_color": "",
             "title": "Free shipping",
-            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+            "content": ""
           }
         },
         "item_8gLKrd": {
@@ -470,7 +481,7 @@
             "icon_background": "#f9f3ee",
             "icon_color": "",
             "title": "Free shipping",
-            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+            "content": ""
           }
         },
         "item_dfjk8e": {
@@ -484,7 +495,7 @@
             "icon_background": "#f9f3ee",
             "icon_color": "",
             "title": "Free shipping",
-            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+            "content": ""
           }
         }
       },
@@ -498,13 +509,13 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "title": "",
+        "title": "Perché sceglierci?",
         "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "medium",
         "background": "",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#772647"
       }
     },
     "media_with_text_4F3mT3": {
