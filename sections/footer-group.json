@@ -23,8 +23,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Tell your customers about your shipping offer.</p>"
+            "title": "SPEDIZIONE GRATUITA",
+            "content": ""
           }
         },
         "customer-support": {
@@ -36,21 +36,21 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>Tell your customers how they can reach you.</p>"
+            "title": "ASSISTENZA CLIENTI 24/7",
+            "content": ""
           }
         },
         "discount": {
           "type": "item",
           "settings": {
-            "icon": "picto-coupon",
+            "icon": "picto-love",
             "mobile_icon_width": 40,
             "icon_width": 40,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Refer a friend",
-            "content": "<p>Tell your customers about your promotional offers.</p>"
+            "title": "GARANZIA DI RIMBORSO DI 30 GIORNI",
+            "content": ""
           }
         },
         "payment": {
@@ -62,8 +62,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Tel your customers about your payment methods.</p>"
+            "title": "PAGAMENTO SICURO",
+            "content": ""
           }
         }
       },
